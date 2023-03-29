@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Foody/Foody.iml" filepath="$PROJECT_DIR$/Foody/Foody.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FoodyOrder/FoodyOrder.iml" filepath="$PROJECT_DIR$/FoodyOrder/FoodyOrder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/McDonald_App_JavaFx.iml" filepath="$PROJECT_DIR$/.idea/McDonald_App_JavaFx.iml" />
+    </modules>
+  </component>
+</project>
